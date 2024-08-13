@@ -176,8 +176,7 @@ const resetForm = () => {
 // This function should create a new Product and add it to the order 
 // then reset the form
 
-const orderTotal = computed(() => {
-  // TODO: Implement the calculation of the order total
-  return 0; // Replace this with the actual calculation
-});
+// TODO: Implement the calculation of the order total
+// const orderTotal = ?;
+  
 </script>
