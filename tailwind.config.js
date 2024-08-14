@@ -1,10 +1,11 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: [],
-  darkMode: 'class',
+  content: [
+    './src/**/*.{html,js,vue,ts}',
+  ],
+  darkMode: 'selector',
   theme: {
     extend: {},
   },
   plugins: [],
 }
-
